@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "biscuitpourqui",
 	"description": "Getting another certificate",
+	"keywords": ["freecodecamp", "homeschooling"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
